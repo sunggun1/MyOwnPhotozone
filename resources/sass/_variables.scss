@@ -1,0 +1,51 @@
+// Body
+$body-bg: #f8fafc;
+
+html{
+    position: relative;
+    min-height: 100%;
+    margin: 0;
+}
+
+#content-wrap{
+    min-height: 100%;
+}
+
+.footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+	padding: 15px 0;
+	text-align: center;
+    background-color: #222222;
+}
+
+.crime-maker{
+    background: none;
+    border:none;
+}
+
+
+.GoogleMapReact{
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+}
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
