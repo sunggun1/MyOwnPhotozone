@@ -1,3 +1,16 @@
+
+잠깐 라라벨과 react를 연결하여 만든 프로젝트입니다.
+
+
+
+완성이 된 것은 아니지만 react를 충분히 공부할 수 있었습니다.
+
+![image](https://user-images.githubusercontent.com/17981550/172550353-316c53d1-fb11-494a-b59f-324fca2f4548.png)
+
+![image](https://user-images.githubusercontent.com/17981550/172550448-4e2b1732-dcd8-4822-8005-b1d0d0d3b661.png)
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
